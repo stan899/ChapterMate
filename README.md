@@ -16,11 +16,5 @@ ViewModel (Architecture Component)
 Book cover display(planned)
 🚀 Features
 
-📚 Simple dashboard to view books
-🔄 Bottom navigation bar
-🌗 Light and Dark mode switch
-🖼️ Book cover display (planned)
-📈 Track reading progress
-👨‍💻 Author
 
 Stanford M.
