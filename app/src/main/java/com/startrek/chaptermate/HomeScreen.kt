@@ -221,6 +221,7 @@ fun HomeScreen(chapterViewModel: ChapterViewModel = viewModel()) {
                 }
                 HorizontalDivider(Modifier.padding(vertical = 8.dp))
             }
+            Spacer(modifier = Modifier.height(20.dp))
 
             // Tabs
             Row(
